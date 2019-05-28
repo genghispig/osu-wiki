@@ -19,24 +19,24 @@ Use .png as a default format for images, since .jpg can't handle transparency.
 Alongside this comment, remember to delete all comments across the article after you finish.
 -->
 
-# {TOURNAMENT_NAME}
+# NSATT 2019
 
 ![{ABBR} Logo](img/logo.png)
 
-The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a player versus player tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_SERIES}.
+The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by the {ORGANISER}. It is the {NTH} installment of the North American Taiko Tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-01-01/2018-01-28 |
-| Live Drawings | 2018-01-29 {DRAW_TIME} |
-| Group Stage |  |
-| Round of 16 |  |
-| Quarterfinals |  |
-| Semifinals |  |
-| Finals - Week 1 |  |
-| Finals - Week 2 |  |
+| Registration Phase | 2019-6-1/2019-6-15 |
+| Live Drawings | 2018-01-29 {DRAW_TIME} | idk if we need this 
+| Group Stage | 2019-6-22/2019-6-23 |
+| Round of 16 | 2019-6-29/2019-6-30 |
+| Quarterfinals | 2019-7-6/2019-7-7 |
+| Semifinals | 2019-7-13/2019-7-14 |
+| Finals | 2019-7-20/2019-7-21 |
+| Grand Finals | 2019-7-27/2019-7-28 |
 
 <!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
 Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
@@ -44,22 +44,19 @@ Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for {TOURNAMENT_NAME} winners. It is possible that these items change with every installment of the {TOURNAMENT_SERIES}.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") |  |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") |  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |  |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile Badge, 1 Year of Supporter (or $26 USD) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 6 Months of Supporter (or $16 USD) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 Months of Supporter (or $8 USD) |
 
 ## Organisation
 
-The {TOURNAMENT_NAME} is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The North & South American Taiko Tournament is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Example; delete this line | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
-| Management |  |
+| Management | incandescence |
 | Map Selectors |  |
 | Streamers |
 | Commentators |  |
@@ -75,10 +72,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 ## Participants
 
-|  | Country | Members |
-| :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
-|  |  |  |
+| put some people here later |
 
 ## Groups
 
@@ -138,10 +132,15 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 ## Ruleset
 <!-- For official tournaments it depends on game mode used -->
 ### Tournament Rules
+
 ### Tournament Registration
+Only Players with a North or South American flag on their account are allowed to register in this tournament. This includes **only** the following countries: USA, Canada, Mexico, Brazil, Chile, Argentina, Colombia, Venezuela, Uruguay, Paraguay, Peru, Ecuador, Bolivia, Guyana, Suriname, and French Guiana. Countries in the Caribbean and Central America may **not** sign up for this tournament. 
 ### Stage Instructions
+
 ### Match Instructions
+
 ### Mappool Instructions
+
 ### Scheduling Instructions
 
 <!--
