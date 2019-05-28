@@ -23,7 +23,7 @@ Alongside this comment, remember to delete all comments across the article after
 
 ![{ABBR} Logo](img/logo.png)
 
-The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_SERIES}.
+The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a player versus player tournament hosted by the {ORGANISER}. It is the {NTH} installment of the {TOURNAMENT_SERIES}.
 
 ## Tournament Schedule
 
