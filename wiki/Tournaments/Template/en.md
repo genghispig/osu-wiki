@@ -61,13 +61,13 @@ The North & South American Taiko Tournament is run by various community members 
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/{TOPIC_NUM})
-- [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet]({STATS_LINK})**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/907995)
+- [Livestream] TBA
+- **[Statistics sheet] TBA**
 
 ## Participants
 
-| put some people here later |
+|  |
 
 ## Groups
 
@@ -89,14 +89,6 @@ The North & South American Taiko Tournament is run by various community members 
 ## Mappools
 
 ### Finals
-
-**[Download the mappack here! (SIZE)](LINK)**
-
-- ModType
-  - Beatmap
-- Tiebreaker
-  - **Beatmap**
-
 ### Semifinals
 ### Quarterfinals
 ### Round of 16
@@ -109,13 +101,6 @@ The North & South American Taiko Tournament is run by various community members 
 ## Match Results
 
 ### Finals - Week 2
-
-| Day, date |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| TEAM_A ![][flag] | SCORE | SCORE | ![][flag] TEAM_B | [#1](MATCH_LINK) |
-| TEAM_C ![][flag] | SCORE | SCORE | ![][flag] TEAM_D | -win by default- |
-| TEAM_E ![][flag] | SCORE | SCORE | ![][flag] TEAM_F | -nullified- |
-
 ### Finals - Week 1
 ### Semifinals
 ### Quarterfinals
