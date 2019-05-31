@@ -56,7 +56,7 @@ The North & South American Taiko Tournament is run by various community members 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | incandescence |
+| Management | [incandescence](https://osu.ppy.sh/users/incandescence) |
 | Map Selectors |  |
 | Streamers |
 | Commentators |  |
