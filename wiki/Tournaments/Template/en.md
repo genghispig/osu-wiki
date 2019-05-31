@@ -67,7 +67,7 @@ The North & South American Taiko Tournament is run by various community members 
 
 ## Participants
 
-|  |
+
 
 ## Groups
 
@@ -79,10 +79,6 @@ The North & South American Taiko Tournament is run by various community members 
 | Country4 | Example | Example | Example |
 
 ---------------------------
-
-![{ABBR} Podium](img/podium.png)
-
-![{ABBR} Bracket](img/bracket.png)
 
 ---------------------------
 
