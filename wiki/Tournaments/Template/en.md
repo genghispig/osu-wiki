@@ -16,7 +16,7 @@ Alongside this comment, remember to delete all comments across the article after
 
 # NSATT 2019
 
-![{ABBR} Logo](https://i.imgur.com/BK2tToK.png)
+![{ABBR} Logo](https://i.ppy.sh/18cf55c49646544c72a9ff12edde58a90086c89c/68747470733a2f2f692e696d6775722e636f6d2f78383536306d542e706e67)
 
 The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by the {ORGANISER}. It is the {NTH} installment of the North American Taiko Tournament.
 
@@ -25,7 +25,6 @@ The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 P
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-6-1/2019-6-15 |
-| Live Drawings | 2018-01-29 {DRAW_TIME} | idk if we need this 
 | Group Stage | 2019-6-22/2019-6-23 |
 | Round of 16 | 2019-6-29/2019-6-30 |
 | Quarterfinals | 2019-7-6/2019-7-7 |
@@ -70,14 +69,6 @@ The North & South American Taiko Tournament is run by various community members 
 
 
 ## Groups
-
-| Group A | Group B | Group C | Group ... |
-| :-- | :-- | :-- | :-- |
-| Country1 | Example | Example | Example |
-| Country2 | Example | Example | Example |
-| Country3 | Example | Example | Example |
-| Country4 | Example | Example | Example |
-
 ---------------------------
 
 ---------------------------
@@ -135,7 +126,12 @@ In **Finals and Grand Finals**, it is Bo13: First to score 7 points wins.
 2. Only the player who selects a FreeMod pick is required to use at least 1 mod. The opponent is not required to use a mod if they choose not to do so. 
 3. You are allowed 1 map ban per match, this does not include the Tie-breaker. 
 ### Scheduling Instructions
-
+1. Each stage will be held on a single weekend.
+2. Matches in Group Stage may overlap.
+3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
+     In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be      unavailable in the following week. Wishes will try to be followed, alas no promises can be made.
+5. Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.
 <!--
 Add flag references here.
 Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
