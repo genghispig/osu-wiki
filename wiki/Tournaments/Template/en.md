@@ -57,7 +57,7 @@ The North & South American Taiko Tournament is run by various community members 
 | Position | Member(s) |
 | :-- | :-- |
 | Management | [incandescence](https://osu.ppy.sh/users/incandescence), [Garpo](https://osu.ppy.sh/users/Garpo), and [Raichael](https://osu.ppy.sh/users/Raichael) |
-| Map Selectors | [incandescence](https://osu.ppy.sh/users/incandescence), [Nifty](https://osu.ppy.sh/users/Nifty), [Lno](https://osu.ppy.sh/users/Lno), and [_DUSK_](https://osu.ppy.sh/users/_DUSK_) |
+| Map Selectors | [incandescence](https://osu.ppy.sh/users/incandescence), [Nifty](https://osu.ppy.sh/users/Nifty), [Lno](https://osu.ppy.sh/users/Lno), and [\_DUSK\_](https://osu.ppy.sh/users/_DUSK_) |
 | Streamers | [Zac Efron](https://osu.ppy.sh/users/Zac%20Efron), and [Garpo](https://osu.ppy.sh/users/Garpo) |
 | Commentators | [incandescence](https://osu.ppy.sh/users/incandescence), [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan), [Zac Efron](https://osu.ppy.sh/users/Zac%20Efron), [janitoreihil](https://osu.ppy.sh/users/janitoreihil), [Das](https://osu.ppy.sh/users/Das), [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom), [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), and [goheegy](https://osu.ppy.sh/users/goheegy) |
 | Wiki Designers | [driodx](https://osu.ppy.sh/users/driodx), and [incandescence](https://osu.ppy.sh/users/incandescence) |
