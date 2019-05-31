@@ -108,15 +108,32 @@ The North & South American Taiko Tournament is run by various community members 
 ## Ruleset
 <!-- For official tournaments it depends on game mode used -->
 ### Tournament Rules
-
+1. NSATT will have a Group Stage followed by a knock-out double elimination structure with a loser bracket.
+2. NSATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the Score V2 system.
+3. If no staff or referee is available, the match will be postponed.
+4. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default. 
+5. Players may not directly throw a match. If a player chooses to do so, a rematch will be forced. If the match is still thrown, the player will be ejected from the tournament. 
+6. If a player disconnects during a map: 
+-If it before 30 seconds into the map, the referee will abort the map, and it will be replayed. 
+-If it is after 30 seconds into the map, it is up to the discretion of the referee. 
 ### Tournament Registration
-Only Players with a North or South American flag on their account are allowed to register in this tournament. This includes **only** the following countries: USA, Canada, Mexico, Brazil, Chile, Argentina, Colombia, Venezuela, Uruguay, Paraguay, Peru, Ecuador, Bolivia, Guyana, Suriname, and French Guiana. Countries in the Caribbean and Central America may **not** sign up for this tournament. 
+1. Only Players with a North or South American flag on their account are allowed to register in this tournament. This includes **only** the following countries: USA, Canada, Mexico, Brazil, Chile, Argentina, Colombia, Venezuela, Uruguay, Paraguay, Peru, Ecuador, Bolivia, Guyana, Suriname, and French Guiana. Countries in the Caribbean and Central America may **not** sign up for this tournament.
+2. Group Stage matches are seeded based on global rank **at the end of the registration period**. 
 ### Stage Instructions
-
+   The win conditions for each stage are as follows. 
+In **Group Stage**, it is Bo7: First to score 4 points wins. 
+In **Round of 16**, it is Bo9: First to score 5 points wins. 
+In **Quarterfinals and Semifinals**, it is Bo11: First to score 6 points wins. 
+In **Finals and Grand Finals**, it is Bo13: First to score 7 points wins. 
 ### Match Instructions
-
+1. Each player can choose to play up to 1 warm-up map. A warm-up must be shorter than 4 minutes. If both players agree to one warm-up, the duration must be shorter than 6 minutes. 
+2. Players roll to determine who will get the first pick and the first ban. The winner of roll will select the first map, whereas the loser will ban the first map. 
+3. Tiebreaker will be played if both players are 1 point away from winning. It will **not** be Free Mod.
+4. In cases where a map results in a tie, the map is nullified and the Player who picked said map will pick another (if the Tiebreaker ends in a draw, the tiebreaker will be replayed under FM).
 ### Mappool Instructions
-
+1. Map pools will start with 4 No Mod, 2 HD, 2 HR, 2 DT, 3 FM and 1 Tiebreaker. _At the RO16, 1 NoMod will be added, and at the Finals, another NoMod will be added_. 
+2. Only the player who selects a FreeMod pick is required to use at least 1 mod. The opponent is not required to use a mod if they choose not to do so. 
+3. You are allowed 1 map ban per match, this does not include the Tie-breaker. 
 ### Scheduling Instructions
 
 <!--
