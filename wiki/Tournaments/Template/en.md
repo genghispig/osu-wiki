@@ -1,24 +1,8 @@
-<!--
-Find and replace those tags listed below with proper information, then delete this comment.
-{TOURNAMENT_NAME} = tournament name
-{MODE} = game mode
-{ABBR} = abbreviation of the tournament name followed by its iteration/year occurence e.g. MWC 4K 2018
-{ORGANISER} = organiser of the tournament
-{NTH} = installment ordinal number
-{TOURNAMENT_SERIES} = tournament name without its iteration suffix e.g. osu!mania 4K World Cup
-{DRAW_TIME} = Live Drawings (Livestream) time for the tournament
-{TOPIC_NUM} = forum thread number
-{STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
-You will still need to fill other items such as tables, etc.
-Use .png as a default format for images, since .jpg can't handle transparency.
-Alongside this comment, remember to delete all comments across the article after you finish.
--->
-
 # NSATT 2019
 
 ![{ABBR} Logo](https://i.ppy.sh/18cf55c49646544c72a9ff12edde58a90086c89c/68747470733a2f2f692e696d6775722e636f6d2f78383536306d542e706e67)
 
-The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by the {ORGANISER}. It is the {NTH} installment of the North American Taiko Tournament.
+The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by incandescence, Garpo, and Raichael. It is the 4th installment of the North & South American Taiko Tournament (previously called North American Taiko Tournament).
 
 ## Tournament Schedule
 
@@ -31,10 +15,6 @@ The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 P
 | Semifinals | 2019-7-13/2019-7-14 |
 | Finals | 2019-7-20/2019-7-21 |
 | Grand Finals | 2019-7-27/2019-7-28 |
-
-<!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
-Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
- -->
 
 ## Prizes
 
@@ -61,12 +41,10 @@ The North & South American Taiko Tournament is run by various community members 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/907995)
-- [Livestream] TBA
-- **[Statistics sheet] TBA**
+- Livestream - TBA
+- **Statistics sheet - TBA**
 
 ## Participants
-
-
 
 ## Groups
 ---------------------------
@@ -80,8 +58,6 @@ The North & South American Taiko Tournament is run by various community members 
 ### Quarterfinals
 ### Round of 16
 ### Group Stage
-
-<!-- Tiebreaker beatmap must be bolded -->
 
 --------------------------------
 
@@ -97,7 +73,6 @@ The North & South American Taiko Tournament is run by various community members 
 ---------------------------------
 
 ## Ruleset
-<!-- For official tournaments it depends on game mode used -->
 ### Tournament Rules
 1. NSATT will have a Group Stage followed by a knock-out double elimination structure with a loser bracket.
 2. NSATT matches will be 1v1 Taiko in team style format with a point given to the highest score achieved in the Score V2 system.
@@ -132,7 +107,3 @@ In **Finals and Grand Finals**, it is Bo13: First to score 7 points wins.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
      In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be      unavailable in the following week. Wishes will try to be followed, alas no promises can be made.
 5. Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.
-<!--
-Add flag references here.
-Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
- -->
