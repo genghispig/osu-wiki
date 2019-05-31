@@ -1,8 +1,3 @@
----
-tags:
-- {ABBR}
----
-
 <!--
 Find and replace those tags listed below with proper information, then delete this comment.
 {TOURNAMENT_NAME} = tournament name
@@ -21,7 +16,7 @@ Alongside this comment, remember to delete all comments across the article after
 
 # NSATT 2019
 
-![{ABBR} Logo](img/logo.png)
+![{ABBR} Logo](https://i.imgur.com/BK2tToK.png)
 
 The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by the {ORGANISER}. It is the {NTH} installment of the North American Taiko Tournament.
 
