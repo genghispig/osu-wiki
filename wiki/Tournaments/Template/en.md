@@ -9,6 +9,7 @@ The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 P
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-6-1/2019-6-15 |
+| Live Drawings | 2019-6-16 (19:00 UTC) |
 | Group Stage | 2019-6-22/2019-6-23 |
 | Round of 16 | 2019-6-29/2019-6-30 |
 | Quarterfinals | 2019-7-6/2019-7-7 |
