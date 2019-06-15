@@ -2,7 +2,7 @@
 
 ![{ABBR} Logo](https://i.ppy.sh/18cf55c49646544c72a9ff12edde58a90086c89c/68747470733a2f2f692e696d6775722e636f6d2f78383536306d542e706e67)
 
-The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by incandescence and Garpo. It is the 4th installment of the North & South American Taiko Tournament (previously called North American Taiko Tournament).
+The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by incandescence and Garpo. It is the 4th installment of the North & South American Taiko Tournament (previously called the North American Taiko Tournament).
 
 ## Tournament Schedule
 
@@ -31,13 +31,13 @@ The North & South American Taiko Tournament is run by various community members 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | [incandescence](https://osu.ppy.sh/users/incandescence) and [Garpo](https://osu.ppy.sh/users/Garpo) |
-| Map Selectors | [incandescence](https://osu.ppy.sh/users/incandescence), [Nifty](https://osu.ppy.sh/users/Nifty), [Lno](https://osu.ppy.sh/users/Lno), and [\_DUSK\_](https://osu.ppy.sh/users/_DUSK_) |
-| Streamers | [Garpo](https://osu.ppy.sh/users/Garpo) |
-| Commentators | [incandescence](https://osu.ppy.sh/users/incandescence), [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan), [Zac Efron](https://osu.ppy.sh/users/Zac%20Efron), [janitoreihil](https://osu.ppy.sh/users/janitoreihil), [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom), [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), and [goheegy](https://osu.ppy.sh/users/goheegy) |
-| Wiki Designers | [driodx](https://osu.ppy.sh/users/driodx) and [incandescence](https://osu.ppy.sh/users/incandescence) |
-| Referees | [JDrago14](https://osu.ppy.sh/users/JDrago14), [Ney](https://osu.ppy.sh/users/Ney), [Beat43210](https://osu.ppy.sh/users/Beat43210), [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), [Raphalge](https://osu.ppy.sh/users/Raphalge), [goheegy](https://osu.ppy.sh/users/goheegy), [cheese salad](https://osu.ppy.sh/users/cheese%20salad), and [Stefan](https://osu.ppy.sh/users/Stefan) |
-| Statisticians | [Garpo](https://osu.ppy.sh/users/Garpo) and [Raichael](https://osu.ppy.sh/users/Raichael) |
+| Management | ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence), ![][flag_US] [Garpo](https://osu.ppy.sh/users/Garpo) |
+| Map Selectors | ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence), ![][flag_US] [Nifty](https://osu.ppy.sh/users/Nifty), ![][flag_GB] [Lno](https://osu.ppy.sh/users/Lno), ![][flag_GB][\_DUSK\_](https://osu.ppy.sh/users/_DUSK_) |
+| Streamers | ![][flag_US] [Garpo](https://osu.ppy.sh/users/Garpo) |
+| Commentators | ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan), ![][flag_US] [Zac Efron](https://osu.ppy.sh/users/Zac%20Efron), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/janitoreihil), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom), ![][flag_US] [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/goheegy) |
+| Wiki Designers | ![][flag_US] [driodx](https://osu.ppy.sh/users/driodx), ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence) |
+| Referees | ![][flag_US] [JDrago14](https://osu.ppy.sh/users/JDrago14), ![][flag_US] [Ney](https://osu.ppy.sh/users/Ney), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/Beat43210), ![][flag_US] [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/Raphalge), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/goheegy), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/cheese%20salad), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/Stefan) |
+| Statisticians | ![][flag_US] [Garpo](https://osu.ppy.sh/users/Garpo) |
 
 ## Links
 
@@ -108,3 +108,10 @@ In **Finals and Grand Finals**, it is Bo13: First to score 7 points wins.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
      In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be      unavailable in the following week. Wishes will try to be followed, alas no promises can be made.
 5. Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.
+
+[flag_AT]: /wiki/shared/flag/AT.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_US]: /wiki/shared/flag/US.gif
