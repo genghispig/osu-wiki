@@ -2,7 +2,7 @@
 
 ![{ABBR} Logo](https://i.ppy.sh/18cf55c49646544c72a9ff12edde58a90086c89c/68747470733a2f2f692e696d6775722e636f6d2f78383536306d542e706e67)
 
-The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by incandescence, Garpo, and Raichael. It is the 4th installment of the North & South American Taiko Tournament (previously called North American Taiko Tournament).
+The **North & South American Taiko Tournament 2019** (***NSATT2019***) is a 32 Player, 1v1 Double Elimination tournament hosted by incandescence and Garpo. It is the 4th installment of the North & South American Taiko Tournament (previously called North American Taiko Tournament).
 
 ## Tournament Schedule
 
@@ -32,7 +32,7 @@ The North & South American Taiko Tournament is run by various community members 
 | :-- | :-- |
 | Management | [incandescence](https://osu.ppy.sh/users/incandescence) and [Garpo](https://osu.ppy.sh/users/Garpo) |
 | Map Selectors | [incandescence](https://osu.ppy.sh/users/incandescence), [Nifty](https://osu.ppy.sh/users/Nifty), [Lno](https://osu.ppy.sh/users/Lno), and [\_DUSK\_](https://osu.ppy.sh/users/_DUSK_) |
-| Streamers | [Zac Efron](https://osu.ppy.sh/users/Zac%20Efron) and [Garpo](https://osu.ppy.sh/users/Garpo) |
+| Streamers | [Garpo](https://osu.ppy.sh/users/Garpo) |
 | Commentators | [incandescence](https://osu.ppy.sh/users/incandescence), [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan), [Zac Efron](https://osu.ppy.sh/users/Zac%20Efron), [janitoreihil](https://osu.ppy.sh/users/janitoreihil), [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom), [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), and [goheegy](https://osu.ppy.sh/users/goheegy) |
 | Wiki Designers | [driodx](https://osu.ppy.sh/users/driodx) and [incandescence](https://osu.ppy.sh/users/incandescence) |
 | Referees | [JDrago14](https://osu.ppy.sh/users/JDrago14), [Ney](https://osu.ppy.sh/users/Ney), [Beat43210](https://osu.ppy.sh/users/Beat43210), [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), [Raphalge](https://osu.ppy.sh/users/Raphalge), [goheegy](https://osu.ppy.sh/users/goheegy), [cheese salad](https://osu.ppy.sh/users/cheese%20salad), and [Stefan](https://osu.ppy.sh/users/Stefan) |
