@@ -47,6 +47,41 @@ The North & South American Taiko Tournament is run by various community members 
 
 ## Participants
 
+| Seed | Player |
+| :-: | :-- |
+| Top: 1 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/janitoreihil) |
+| 2 | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/vladyushko) |
+| 3 | ![][flag_BR] [eae](https://osu.ppy.sh/users/eae) |
+| 4 | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/Loopy542) |
+| 5 | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/BossPlays) |
+| 6 | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/cheese%20salad) |
+| 7 | ![][flag_US] [jyake](https://osu.ppy.sh/users/jyake) |
+| 8 | ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/Skull%20Kid) |
+| Middle: 9 | ![][flag_US] [\_knots](https://osu.ppy.sh/users/_knots) |
+| 10 | ![][flag_AR] [TrolloCat](https://osu.ppy.sh/users/TrolloCat) |
+| 11 | ![][flag_US] [Whulf](https://osu.ppy.sh/users/Whulf) |
+| 12 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/Axer) |
+| 13 | ![][flag_VE] [My Angel Kazu](https://osu.ppy.sh/users/My%20Angel%20Kazu) |
+| 14 | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/Catgirl) |
+| 15 | ![][flag_VE] [[\_Chichinya\_]](https://osu.ppy.sh/users/[\_Chichinya\_]) |
+| 16 | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/Kyoumo) |
+| Low: 17 | ![][flag_US] [closed](https://osu.ppy.sh/users/closed) |
+| 18 | ![][flag_AR] [Jintsuu](https://osu.ppy.sh/users/Jintsuu) |
+| 19 | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/Coryn) |
+| 20 | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/Ammy) |
+| 21 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/Backfire) |
+| 22 | ![][flag_US] [Brames](https://osu.ppy.sh/users/Brames) |
+| 23 | ![][flag_AR] [warning dark](https://osu.ppy.sh/users/warning%20dark) |
+| 24 | ![][flag_CL] [Aisha](https://osu.ppy.sh/users/Aisha) |
+| Unseeded: 25 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/Atreevete) |
+| 26 | ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan) |
+| 27 | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/Kotu776) |
+| 28 | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom) |
+| 29 | ![][flag_CL] [Catulus](https://osu.ppy.sh/users/Catulus) |
+| 30 | ![][flag_MX] [[ItsTakane]](https://osu.ppy.sh/users/[ItsTakane]) |
+| 31 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/Gamelan4) |
+| 32 | ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/DiggyDogg) |
+
 ## Groups
 ---------------------------
 
@@ -109,9 +144,15 @@ In **Finals and Grand Finals**, it is Bo13: First to score 7 points wins.
      In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be      unavailable in the following week. Wishes will try to be followed, alas no promises can be made.
 5. Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.
 
+[flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_EC]: /wiki/shared/flag/EC.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_US]: /wiki/shared/flag/US.gif
+[flag_VE]: /wiki/shared/flag/VE.gif
