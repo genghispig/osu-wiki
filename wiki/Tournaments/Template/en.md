@@ -33,17 +33,17 @@ The North & South American Taiko Tournament is run by various community members 
 | :-- | :-- |
 | Management | ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence), ![][flag_US] [Garpo](https://osu.ppy.sh/users/Garpo) |
 | Map Selectors | ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence), ![][flag_US] [Nifty](https://osu.ppy.sh/users/Nifty), ![][flag_GB] [Lno](https://osu.ppy.sh/users/Lno), ![][flag_GB][\_DUSK\_](https://osu.ppy.sh/users/_DUSK_) |
-| Streamers | ![][flag_US] [Garpo](https://osu.ppy.sh/users/Garpo) |
+| Streamers | ![][flag_US] [Garpo](https://osu.ppy.sh/users/Garpo), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/cheese%20salad) |
 | Commentators | ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/janitoreihil), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom), ![][flag_US] [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/goheegy), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/Beat43210) |
 | Wiki Designers | ![][flag_US] [driodx](https://osu.ppy.sh/users/driodx), ![][flag_US] [incandescence](https://osu.ppy.sh/users/incandescence) |
-| Referees | ![][flag_US] [JDrago14](https://osu.ppy.sh/users/JDrago14), ![][flag_US] [Ney](https://osu.ppy.sh/users/Ney), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/Beat43210), ![][flag_US] [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/Raphalge), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/goheegy), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/cheese%20salad), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/Stefan) |
+| Referees | ![][flag_US] [JDrago14](https://osu.ppy.sh/users/JDrago14), ![][flag_US] [Ney](https://osu.ppy.sh/users/Ney), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/Beat43210), ![][flag_US] [Edgar_Figaro](https://osu.ppy.sh/users/Edgar_Figaro), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/Raphalge), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/goheegy), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/cheese%20salad), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/Stefan), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/Ulqui), ![][flag_US] [radar](https://osu.ppy.sh/users/radar), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/Voltaeyx) |
 | Statisticians | ![][flag_US] [Garpo](https://osu.ppy.sh/users/Garpo) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/907995)
-- Livestream - TBA
-- **Statistics sheet - TBA**
+- [Livestream](https://www.twitch.tv/osutaikolive)
+- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPxwqEqzN-miTVZ9fM20aMelIYCwnm1FFJV3M0yn7w8YoBB60lS-hIzpV4l9JOqQ3v9iyTBXHhoOAk/pubhtml)**
 
 ## Participants
 
@@ -94,6 +94,26 @@ The North & South American Taiko Tournament is run by various community members 
 ### Quarterfinals
 ### Round of 16
 ### Group Stage
+ - Nomod
+   - [Igorrr - Mastication Numerique (Loctav) [Loctav's Taiko Oni]](https://osu.ppy.sh/beatmapsets/54182#taiko/165342)
+   - [Tarolin - Anoko no Jinta (TARO no Jigoku Megu Remix) (yea) [yea's Inner Oni]](https://osu.ppy.sh/beatmapsets/825937#taiko/1731107)
+   - [yuki. - Be Your Light (Rhytoly) [Creativity]](https://osu.ppy.sh/beatmapsets/878344#taiko/1837010)
+   - [HimeHina - Rettou Joutou (katacheh) [Jojijoji Taiko]](https://osu.ppy.sh/beatmapsets/902934#taiko/1885021)
+ - Hidden
+   - [Akhuta - Nigra Ludia (Kqrth) [Black Oni]](https://osu.ppy.sh/beatmapsets/838406#taiko/1755294)
+   - [DIVELA feat. Hatsune Miku - DITHER TUNE (uone&Shallty) [uone&Shallty's Inner Oni]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
+ - HardRock
+   - [Furries in a Blender - Storm World (Firce777) [Oni]](https://osu.ppy.sh/beatmapsets/319473#taiko/711061)
+   - [FELT - New World (Nao Tomori) [Inner Oni]](https://osu.ppy.sh/beatmapsets/782955#taiko/1659378)
+ - DoubleTime
+   - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) [Oni]](https://osu.ppy.sh/beatmapsets/169969#taiko/411522)
+   - [40mP - Dandan Hayaku Naru (Volta) [Oni]](https://osu.ppy.sh/beatmapsets/697711#taiko/1477882)
+ - FreeMod
+   - [cillia - Rolling Girl (mintong89) [Ura Oni lv. 29]](https://osu.ppy.sh/beatmapsets/434536#taiko/936283)
+   - [Helblinde - Putin's Boner (KitajimaYN) [Small Putin]](https://osu.ppy.sh/beatmapsets/621547#taiko/1310558)
+   - [BiBi - Cutie Panther (OzzyOzrock) [Inner Oni]](https://osu.ppy.sh/beatmapsets/680237#taiko/1438348)
+ - Tiebreaker
+   - **[Yousei Teikoku - Astral Dogma (Raphalge) [Inner Oni]](https://osu.ppy.sh/beatmapsets/715185#taiko/1511109)**
 
 --------------------------------
 
