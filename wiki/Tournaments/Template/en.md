@@ -82,17 +82,33 @@ The North & South American Taiko Tournament is run by various community members 
 | 31 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/Gamelan4) |
 | 32 | ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/DiggyDogg) |
 
-## Groups
----------------------------
-
----------------------------
-
 ## Mappools
 
 ### Finals
 ### Semifinals
 ### Quarterfinals
 ### Round of 16
+ - Nomod
+   - [t+pazolite - Pee-Kan Breaks (Ulqui) [Overlapse Oni]](https://osu.ppy.sh/beatmapsets/529539#taiko/1122796)
+   - [EVO+ feat. GigaReol - \[A\]ddiction (MMzz, YOUTA, KinomiCandy) \[Kinobles, MMzz & YOUTA's \[C\]ollaboration \[NSATT ver.\]\]](https://www.dropbox.com/s/u2zxzoob6nro27o/EVO%2B%20feat.%20GigaReol%20-%20%5BA%5Dddiction.osz?dl=0)
+   - [Kemono Friends - Cerulean (S a n d) \[Regretless Oni\]](https://osu.ppy.sh/beatmapsets/595790#taiko/1259995)
+   - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Nishizumi) \[Nishizumi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/925900#taiko/1943253)
+   - [AAAA Chazuke - Fatality Saga (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/768449#taiko/1616129)
+ - Hidden
+   - [RoughSketch - The Omen (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/566671#taiko/1200352)
+   - [XIzE - will o' the wisp (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/948821#taiko/1981442)
+ - HardRock
+   - [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287251#taiko/648184)
+   - [SOUND HOLIC feat. Nana Takahashi - 1001 -ESCAPE- (Charlotte) \[Kqrth's Escape Oni\]](https://osu.ppy.sh/beatmapsets/857208#taiko/2033297)
+ - DoubleTime
+   - [Pegboard Nerds - BAMF (Dargin) \[Oni\]](https://osu.ppy.sh/beatmapsets/517687#taiko/1099907)
+   - [Rin - Kishinjou set 02 ~ Mermaid from the Uncharted Land (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/951618#taiko/1987309)
+ - FreeMod
+   - [Mitsuyoshi Takenobu no Ani - Amphisbaena (Nifty) \[Polycephaly\]](https://osu.ppy.sh/beatmapsets/693993#taiko/1468369)
+   - [aran - Xperanza (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/828903#taiko/1736621)
+   - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Miracle Tone's Fantasy (Clover Remix) (7\_7) \[7\_7 & solo's Fantasy\]](https://osu.ppy.sh/beatmapsets/711159#taiko/1503524)
+ - Tiebreaker
+   - **[Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)**
 ### Group Stage
  - Nomod
    - [Igorrr - Mastication Numerique (Loctav) [Loctav's Taiko Oni]](https://osu.ppy.sh/beatmapsets/54182#taiko/165342)
