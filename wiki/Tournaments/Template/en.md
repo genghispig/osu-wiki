@@ -86,7 +86,51 @@ The North & South American Taiko Tournament is run by various community members 
 
 ### Finals
 ### Semifinals
+ - Nomod
+   - [Ruby My Dear - Spectacle (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/747789#taiko/1575570)
+   - [Hiro - VERTeX (Nwolf) \[Apex\]](https://osu.ppy.sh/beatmapsets/856990#taiko/1790210)
+   - [uma vs. Morimori Atsushi - Touhou Youyoumu ULTIMATE MEDLEY (komasy) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/871329#taiko/1820576)
+   - [DJ Mass MAD Izm* - SHAKUNETSU Pt.2 Long Train Running (Consified) \[YO!\]](https://osu.ppy.sh/beatmapsets/805516#taiko/1882208)
+   - [Kobaryo - Cartoon Candy (Nishizumi) \Nisweetzumi\]](https://osu.ppy.sh/beatmapsets/556809#taiko/1186496)
+ - Hidden
+   - [t+pazolite - blckout (S a n d) \[Sand's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/234541#taiko/543963)
+   - [Vladimir Zelentsov - A.Vivaldi - Summer (Metal Cover) (Grimbow) \[Solstice\]](https://osu.ppy.sh/beatmapsets/694481#taiko/1469275)
+ - HardRock
+   - [xi - Glorious Crown (asuasu_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
+   - [Nightmare - Dream to Nightmare (Kqrth) \[Tenebrae\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1747624)
+ - DoubleTime
+   - [EZFG - Hurting for a Very Hurtful Pain (Nwolf) \[Painful Demon\]](https://osu.ppy.sh/beatmapsets/955541#taiko/1995363)
+   - [Memme - Chinese Restaurant (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/243893#taiko/562332)
+ - FreeMod
+   - [Lite Show Magic - TRICKL4SH 220 (22,000 Power Extended) (incandescence) \[Electrification\]](https://osu.ppy.sh/beatmapsets/896623#taiko/1873220)
+   - [t+pazolite - Ka wa Taredoki no Yuuwaku (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/749335#taiko/1578366)
+   - [SEVENTH SISTERS - SEVENTH HAVEN(Mtell Remix)(Short ver.) (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/857635#taiko/1791925)
+ - Tiebreaker
+   - **[Gram VS Camellia - Ragnarok (yassu-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/812048#taiko/1703338)**
+ 
 ### Quarterfinals
+ - Nomod
+   - [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
+   - [wataame - MonoCrossRoad (sjfd) \[taiko collab\]](https://osu.ppy.sh/beatmapsets/465609#taiko/996827)
+   - [Minami Yuni - Kanagawa Cyber Culvert (tasuke912) \[tasuke's Upheaval\]](https://osu.ppy.sh/beatmapsets/898783#taiko/1877558)
+   - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi) \[Kraken\]](https://osu.ppy.sh/beatmapsets/542058#taiko/1149263)
+   - [U1 High-Speed - EGOISM 440 (youtune3) \[Zeth's Inner Oni\]](https://osu.ppy.sh/beatmapsets/899958#taiko/1883300)
+ - Hidden
+   - [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/564918#taiko/1194117)
+   - [renard - destination of the heart (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/464930#taiko/995374)
+ - HardRock
+   - [Getty vs. DJ DiA - Ops:Code-Rapture- (eiri-) \[Outer Oni\]](https://osu.ppy.sh/beatmapsets/757450#taiko/1593442)
+   - [goreshit - wasting my time (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/494063#taiko/1052058)
+ - DoubleTime
+   - [wowaka - World's End Dancehall (ROCKETMAN Remix) (Stefan) \[Stefan's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/88911#taiko/417032)
+   - [nameless - SLoWMoTIoN (Marfuri) \[sLoW oNI\]](https://osu.ppy.sh/beatmapsets/834799#taiko/1748618)
+ - FreeMod
+   - [Kaneko Chiharu - Ai want U (Kqrth) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/914852#taiko/1910701)
+   - [t+pazolite - Chrome VOX (Uncut Edition) (juanilp4evr) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/939007#taiko/1961414)
+   - [cybermiso - Surveiller et punir (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/921181#taiko/1923626)
+ - Tiebreaker
+   - **[Knife Party - GIVE IT UP (BILLX HARDTEK RMX) (Grimbow) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/618352#taiko/1637029)**
+   
 ### Round of 16
  - Nomod
    - [t+pazolite - Pee-Kan Breaks (Ulqui) [Overlapse Oni]](https://osu.ppy.sh/beatmapsets/529539#taiko/1122796)
@@ -109,6 +153,7 @@ The North & South American Taiko Tournament is run by various community members 
    - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Miracle Tone's Fantasy (Clover Remix) (7\_7) \[7\_7 & solo's Fantasy\]](https://osu.ppy.sh/beatmapsets/711159#taiko/1503524)
  - Tiebreaker
    - **[Camellia - Primitive Pump (frz) \[Inner PUMP\]](https://osu.ppy.sh/beatmapsets/712424#taiko/1505977)**
+   
 ### Group Stage
  - Nomod
    - [Igorrr - Mastication Numerique (Loctav) [Loctav's Taiko Oni]](https://osu.ppy.sh/beatmapsets/54182#taiko/165342)
