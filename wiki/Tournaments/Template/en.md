@@ -62,25 +62,25 @@ The North & South American Taiko Tournament is run by various community members 
 | 11 | ![][flag_US] [Whulf](https://osu.ppy.sh/users/Whulf) |
 | 12 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/Axer) |
 | 13 | ![][flag_VE] [My Angel Kazu](https://osu.ppy.sh/users/My%20Angel%20Kazu) |
-| 14 | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/Catgirl) |
-| 15 | ![][flag_VE] [[\_Chichinya\_]](https://osu.ppy.sh/users/[\_Chichinya\_]) |
-| 16 | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/Kyoumo) |
-| Low: 17 | ![][flag_US] [closed](https://osu.ppy.sh/users/closed) |
-| 18 | ![][flag_AR] [Jintsuu](https://osu.ppy.sh/users/Jintsuu) |
-| 19 | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/Coryn) |
-| 20 | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/Ammy) |
-| 21 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/Backfire) |
-| 22 | ![][flag_US] [Brames](https://osu.ppy.sh/users/Brames) |
-| 23 | ![][flag_AR] [warning dark](https://osu.ppy.sh/users/warning%20dark) |
-| 24 | ![][flag_CL] [Aisha](https://osu.ppy.sh/users/Aisha) |
-| Unseeded: 25 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/Atreevete) |
-| 26 | ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan) |
-| 27 | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/Kotu776) |
-| 28 | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom) |
-| 29 | ![][flag_CL] [Catulus](https://osu.ppy.sh/users/Catulus) |
-| 30 | ![][flag_MX] [[ItsTakane]](https://osu.ppy.sh/users/[ItsTakane]) |
-| 31 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/Gamelan4) |
-| 32 | ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/DiggyDogg) |
+| 14 | ![][flag_VE] [[\_Chichinya\_]](https://osu.ppy.sh/users/[\_Chichinya\_]) |
+| 15 | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/Kyoumo) |
+| 16 | ![][flag_US] [closed](https://osu.ppy.sh/users/closed) |
+| Low: 17 | ![][flag_AR] [Jintsuu](https://osu.ppy.sh/users/Jintsuu) |
+| 18 | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/Coryn) |
+| 19 | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/Ammy) |
+| 20 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/Backfire) |
+| 21 | ![][flag_US] [Brames](https://osu.ppy.sh/users/Brames) |
+| 22 | ![][flag_AR] [warning dark](https://osu.ppy.sh/users/warning%20dark) |
+| 23 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/Atreevete) |
+| 24 | ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/CaptainEChan) |
+| Unseeded: 25 | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/Kotu776) |
+| 26 | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/DuckyDoom) |
+| 27 | ![][flag_CL] [Catulus](https://osu.ppy.sh/users/Catulus) |
+| 28 | ![][flag_MX] [[ItsTakane]](https://osu.ppy.sh/users/[ItsTakane]) |
+| 29 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/Gamelan4) |
+| 30 | ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/DiggyDogg) |
+| 31 | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/InsaneToe) |
+| 32 | ![][flag_US] [Binsu](https://osu.ppy.sh/users/Binsu) |
 
 ## Mappools
 
@@ -180,12 +180,64 @@ The North & South American Taiko Tournament is run by various community members 
 
 ## Match Results
 
-### Finals - Week 2
-### Finals - Week 1
+### Finals Week 2
+### Finals Week 1
 ### Semifinals
+
+
+
 ### Quarterfinals
+
+
+
 ### Round of 16
+
+
+
 ### Group Stage
+
+| Saturday, 2019-6-22 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| Kyoumo ![][flag_BR] | **4** | 2 | ![][flag_MX] Ammy  | [Match](https://osu.ppy.sh/community/matches/52825082) |
+| janitoreihil ![][flag_CA] | **4** | 0 | ![][flag_VE] \[\_Chichinya\_\] | [Match](https://osu.ppy.sh/community/matches/52825382) |
+| Skull Kid ![][flag_BR] | **4** | 2 | ![][flag_US] Kotu776 | [Match](https://osu.ppy.sh/community/matches/52826704) |
+| Backfire ![][flag_US] | 0 | **4** | ![][flag_VE] \[\_Chichinya\_\] | WBD |
+| Ammy ![][flag_MX] | **4** | 0 | ![][flag_AR] warning dark | [Match](https://osu.ppy.sh/community/matches/52828049) |
+| closed ![][flag_US] | 0 | **4** | ![][flag_AR] Atreevete | [Match](https://osu.ppy.sh/community/matches/52828300) |
+| janitoreihil ![][flag_CA] | **4** | 0 | ![][flag_US] Backfire | WBD |
+| Kyoumo ![][flag_BR] | **4** | 0 | ![][flag_AR] warning dark | [Match](https://osu.ppy.sh/community/matches/52829669) |
+| Loopy542 ![][flag_US] | **4** | 0 | ![][flag_AR] warning dark | [Match](https://osu.ppy.sh/community/matches/52832676) |
+| cheese salad ![][flag_US] | **4** | 0 | ![][flag_AR] Atreevete | [Match](https://osu.ppy.sh/community/matches/52832736) |
+| Loopy542 ![][flag_US] | **4** | 0 | ![][flag_BR] Kyoumo | [Match](https://osu.ppy.sh/community/matches/52833753) |
+| cheese salad ![][flag_US] | **4** | 1 | ![][flag_US] closed | [Match](https://osu.ppy.sh/community/matches/52833777) |
+| closed ![][flag_US] | **4** | 0 | ![][flag_CA] DuckyDoom | [Match](https://osu.ppy.sh/community/matches/52834383) |
+| Atreevete ![][flag_AR] | **4** | 0 | ![][flag_CA] DuckyDoom | [Match](https://osu.ppy.sh/community/matches/52835220) |
+| cheese salad ![][flag_US] | **4** | 0 | ![][flag_CA] DuckyDoom | [Match](https://osu.ppy.sh/community/matches/52836478) |
+
+| Sunday, 2019-6-23 | | | | |
+| --: | :-: | :-: | :-- | :-- |
+| vladyushko ![][flag_CA] | **4** | 0 | ![][flag_AR] Axer | [Match](https://osu.ppy.sh/community/matches/52852886) |
+| \_knots ![][flag_US] | **4** | 0 | ![][flag_US] InsaneToe | [Match](https://osu.ppy.sh/community/matches/52851998) |
+| \[\_Chichinya\_\] ![][flag_VE] | **4** | 1 | ![][flag_US] DiggyDogg | [Match](https://osu.ppy.sh/community/matches/52852065) |
+| eae ![][flag_BR] | **4** | 1 | ![][flag_BR] Coryn | [Match](https://osu.ppy.sh/community/matches/52853255) |
+| \_knots ![][flag_US] | **4** | 0 | ![][flag_US] Brames | WBD |
+| CaptainEChan ![][flag_US] | 1 | **4** | ![][flag_AR] Axer | [Match](https://osu.ppy.sh/community/matches/52853821) |
+| TrolloCat ![][flag_AR] | **4** | 0 | ![][flag_EC] Gamelan4 | [Match](https://osu.ppy.sh/community/matches/52853888) |
+| CaptainEChan ![][flag_US] | 2 | **4** | ![][flag_CL] Catulus | [Match](https://osu.ppy.sh/community/matches/52855051) |
+| jyake ![][flag_US] |  |  | ![][flag_AR] TrolloCat |  |
+| eae ![][flag_BR] | **4** | 0 | ![][flag_US] \[ItsTakane\] | WBD |
+| My Angel Kazu ![][flag_VE] | **4** | 3 | ![][flag_BR] Coryn | [Match](https://osu.ppy.sh/community/matches/52856404) |
+| vladyushko ![][flag_CA] | **4** | 0 | ![][flag_US] CaptainEChan | [Match](https://osu.ppy.sh/community/matches/52856512) |
+| BossPlays ![][flag_AR] | **4** | 2 | ![][flag_US] \_knots | [Match](https://osu.ppy.sh/community/matches/52856629) |
+| Axer ![][flag_AR] | **4** | 3 | ![][flag_CL] Catulus | [Match](https://osu.ppy.sh/community/matches/52857010) |
+| janitoreihil ![][flag_CA] | **4** | 1 | ![][flag_US] DiggyDogg | [Match](https://osu.ppy.sh/community/matches/52860142) |
+| BossPlays ![][flag_AR] | **4** | 0 | ![][flag_US] InsaneToe | [Match](https://osu.ppy.sh/community/matches/52860243) |
+| jyake ![][flag_US] | **4** | 0 | ![][flag_EC] Gamelan4 | [Match](https://osu.ppy.sh/community/matches/52860973) |
+| vladyushko ![][flag_CA] | **4** | 0 | ![][flag_CL] Catulus | [Match](https://osu.ppy.sh/community/matches/52861026) |
+| Loopy542 ![][flag_US] | **4** | 0 | ![][flag_MX] Ammy | [Match](https://osu.ppy.sh/community/matches/52860778) |
+| Skull Kid ![][flag_BR] | **4** | 2 | ![][flag_US] Whulf | [Match](https://osu.ppy.sh/community/matches/52861796) |
+| eae ![][flag_BR] | **4** | 0 | ![][flag_VE] My Angel Kazu | [Match](https://osu.ppy.sh/community/matches/52862637) |
+| Whulf ![][flag_US] | **4** | 1 | ![][flag_US] Kotu776 | [Match](https://osu.ppy.sh/community/matches/52862632) |
 
 ---------------------------------
 
